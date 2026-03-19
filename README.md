@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Júlia! 👋</h1>
 
 <p align="center">
-  <em>Estudante de Informática Biomédica na UFCSPA👩‍💻🧬, explorando a intersecção entre tecnologia e o futuro da saúde.</em>
+  <em>Estudante de Informática Biomédica na UFCSPA👩‍💻🧬</em>
 </p>
 
 <p align="center">
