@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Júlia! 👋</h1>
+<h1 align="center">Olá, eu sou a Julia! 👋</h1>
 
 <p align="center">
   <em>Estudante de Informática Biomédica na UFCSPA👩‍💻🧬</em>
